@@ -11,7 +11,8 @@
 },
 {
 "product id": 2, 
-"category": "Cleansers", "name": "The Cleanser Plus", "description": "If you love our original cleanser, you will absolutely love the enhanced the formula of 'The Cleanser Plus'. With added plant extracts to help calm down irritated skin and inflammation, feel the power of glowing and fresh skin.", 
+"category": "Cleansers", "name": "The Cleanser Plus", 
+"description": "If you love our original cleanser, you will absolutely love the enhanced the formula of 'The Cleanser Plus'. With added plant extracts to help calm down irritated skin and inflammation, feel the power of glowing and fresh skin.", 
 "price":"$29.00", 
 "image":"https://images.unsplash.com/photo-1556228720-195a672e8a03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80", 
 "stockquantity": 100, 
