@@ -1,6 +1,6 @@
 [
 { 
-"product id": 1, 
+"productid": 1, 
 "category": "Cleansers", 
 "name": "Set of 3", 
 "description": "The perfect set to test out all of our cleansers and what they have to offer. Valued at $79.00 Limit 1 Per Customer.", 
@@ -10,7 +10,7 @@
 "rating": 4 
 },
 {
-"product id": 2, 
+"productid": 2, 
 "category": "Cleansers", 
 "name": "The Cleanser Plus", 
 "description": "If you love our original cleanser, you will absolutely love the enhanced the formula of 'The Cleanser Plus'. With added plant extracts to help calm down irritated skin and inflammation, feel the power of glowing and fresh skin.", 
@@ -20,7 +20,7 @@
 "rating": 4
 },
 {
-"product id": 3, 
+"productid": 3, 
 "category": "Cleansers", 
 "name": "Foam Cleanser", 
 "description": "Compact and convenient design. Easily pump out our cleansing formula. The foaming texture provides you with a deep clean that leaves your skin feeling revitalized.", 
@@ -30,7 +30,7 @@
 "rating": 4
 },
 {
-"product id": 4, 
+"productid": 4, 
 "category": "Cleansers", 
 "name": "The Cleanser", 
 "description": "The Cleanser is made by skinCare Co. and is custom skincare that works. Gently cleanses your skin in order to keep breakouts and blemishes under control. Satisfaction guaranteed or your money back! ", 
