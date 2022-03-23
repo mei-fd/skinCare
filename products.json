@@ -32,7 +32,8 @@
 "product id": 4, 
 "category": "Cleansers", 
 "name": "The Cleanser", 
-"description": "The Cleanser is made by skinCare Co. and is custom skincare that works. Gently cleanses your skin in order to keep breakouts and blemishes under control. Satisfaction guaranteed or your money back! ", "price":"$25.00", 
+"description": "The Cleanser is made by skinCare Co. and is custom skincare that works. Gently cleanses your skin in order to keep breakouts and blemishes under control. Satisfaction guaranteed or your money back! ", 
+"price":"$25.00", 
 "image":"https://images.unsplash.com/photo-1556227702-5ec9eb8df3ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN1cm9sb2d5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60", 
 "stockquantity": 100, 
 "rating": 4
