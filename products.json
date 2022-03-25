@@ -78,5 +78,45 @@
 "image":"https://images.unsplash.com/photo-1556227702-5ec9eb8df3ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN1cm9sb2d5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60", 
 "stockquantity": 100, 
 "rating": 4
+},
+    { 
+"productid": 9, 
+"category": "Toner", 
+"name": "Toner Gift Set", 
+"description": "The perfect set to test out all of our cleansers and what they have to offer. Valued at $79.00 Limit 1 Per Customer.", 
+"price":"$59.00", 
+"image":"https://images.unsplash.com/photo-1571781926291-c477ebfd024b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=688&q=80", 
+"stockquantity": 100, 
+"rating": 4 
+},
+{
+"productid": 10, 
+"category": "Toner", 
+"name": "The Toner", 
+"description": "If you love our original cleanser, you will absolutely love the enhanced the formula of 'The Cleanser Plus'. With added plant extracts to help calm down irritated skin and inflammation, feel the power of glowing and fresh skin.", 
+"price":"$29.00", 
+"image":"https://images.unsplash.com/photo-1556228453-6ecff5553887?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NTh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60", 
+"stockquantity": 100, 
+"rating": 4
+},
+{
+"productid": 11, 
+"category": "Toner", 
+"name": "Toner + Pump", 
+"description": "Compact and convenient design. Easily pump out our cleansing formula. The foaming texture provides you with a deep clean that leaves your skin feeling revitalized.", 
+"price":"$25.00", 
+"image":"https://images.unsplash.com/photo-1556228852-80b6e5eeff06?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjZ8fGN1cm9sb2d5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60", 
+"stockquantity": 100, 
+"rating": 4
+},
+{
+"productid": 12, 
+"category": "Toner", 
+"name": "The Toner Plus", 
+"description": "The Cleanser is made by skinCare Co. and is custom skincare that works. Gently cleanses your skin in order to keep breakouts and blemishes under control. Satisfaction guaranteed or your money back! ", 
+"price":"$25.00", 
+"image":"https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MjV8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60", 
+"stockquantity": 100, 
+"rating": 4
 }
 ]
