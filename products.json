@@ -42,7 +42,7 @@
   { 
 "productid": 5, 
 "category": "Moisturizer", 
-"name": "Set of 3", 
+"name": "Set of Moisturizer", 
 "description": "The perfect set to test out all of our cleansers and what they have to offer. Valued at $79.00 Limit 1 Per Customer.", 
 "price":"$59.00", 
 "image":"https://images.unsplash.com/photo-1556228720-210aabb357b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80", 
@@ -52,7 +52,7 @@
 {
 "productid": 6, 
 "category": "Moisturizer", 
-"name": "The Cleanser Plus", 
+"name": "The Moisturizer Plus", 
 "description": "If you love our original cleanser, you will absolutely love the enhanced the formula of 'The Cleanser Plus'. With added plant extracts to help calm down irritated skin and inflammation, feel the power of glowing and fresh skin.", 
 "price":"$29.00", 
 "image":"https://images.unsplash.com/photo-1556228720-195a672e8a03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80", 
@@ -62,7 +62,7 @@
 {
 "productid": 7, 
 "category": "Moisturizer", 
-"name": "Foam Cleanser", 
+"name": "Foam Moisturizer", 
 "description": "Compact and convenient design. Easily pump out our cleansing formula. The foaming texture provides you with a deep clean that leaves your skin feeling revitalized.", 
 "price":"$25.00", 
 "image":"https://images.unsplash.com/photo-1556227834-09f1de7a7d14?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80", 
@@ -72,7 +72,7 @@
 {
 "productid": 8, 
 "category": "Moisturizer", 
-"name": "The Cleanser", 
+"name": "The Moisturizer", 
 "description": "The Cleanser is made by skinCare Co. and is custom skincare that works. Gently cleanses your skin in order to keep breakouts and blemishes under control. Satisfaction guaranteed or your money back! ", 
 "price":"$25.00", 
 "image":"https://images.unsplash.com/photo-1556227702-5ec9eb8df3ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGN1cm9sb2d5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60", 
