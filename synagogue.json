@@ -1,0 +1,64 @@
+[
+{ 
+"category1": "PWA",
+"category2": "Synagogue",
+"category3": "Life Cycle",
+"category4": "Bat Mitzvah",
+"Title":"Laura's Bat Mitzvah",
+"Description": "Laura hosted their Bat Mitzvah on Monday night.",
+"image":"https://i.etsystatic.com/17394592/r/il/d3df23/3665120218/il_1080xN.3665120218_7vs6.jpg",
+"latitude": 43.7647921496599,
+"longitude": -79.4417151693185,
+"address":"4605 Bathurst St, North York, ON M2R 3V3"
+}
+,
+
+{ 
+"category1": "PWA",
+"category2": "Synagogue",
+"category3": "Life Cycle",
+"category4": "Bar Mitzvah",
+"Title":"David's Bar Mitzvah",
+"Description": "David will be having their bar mitzvah at the venue. To the guests attending, please make sure to arrive on time.",
+"image":"https://i.etsystatic.com/20979336/r/il/6b1da5/3853921658/il_794xN.3853921658_gvdx.jpg",
+"latitude": 43.7647921496599,
+"longitude": -79.4417151693185,
+"address":"4605 Bathurst St, North York, ON M2R 3V3"
+},
+{ 
+"category1": "PWA",
+"category2": "Synagogue",
+"category3": "Life Cycle",
+"category4": "Birthday",
+"Title":"Silvana's Birthday",
+"Description": "We would like to wish Silvia a happy birthday. Please wish her a happy birthday if you see her in the community.",
+"image":"https://images.pexels.com/photos/14243296/pexels-photo-14243296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"latitude": 43.7647921496599,
+"longitude": -79.4417151693185,
+"address":"4605 Bathurst St, North York, ON M2R 3V3"
+}
+{ 
+"category1": "PWA",
+"category2": "Synagogue",
+"category3": "Life Cycle",
+"category4": "Wedding",
+"Title":"Dana & Elan's Wedding",
+"Description": "On the behalf of the community we would like to announce the marriage of two of our members Dana, and Elan. In celebration, they have prepared lunch for all the members to attend after services.",
+"image":"https://i.etsystatic.com/32348691/r/il/c219a4/3585937309/il_794xN.3585937309_qc4g.jpg",
+"latitude": 43.7647921496599,
+"longitude": -79.4417151693185,
+"address":"4605 Bathurst St, North York, ON M2R 3V3"
+},
+{ 
+"category1": "PWA",
+"category2": "Synagogue",
+"category3": "Life Cycle",
+"category4": "Death",
+"Title":"In Memory of Samuel ",
+"Description": "Our community sadly lost an important member on November 11th, Samuel Hoffman was the heart and soul of the community and volunteered at local charities and helped with community events. They will leave a big gap in our community and will be sorely missed. They were a beautiful person who spread joy and happiness wherever they went. The funeral will be a private ceremony with only close family members present. We invite you to make a donation in Samuel's name, in place of sending flowers to an organization he's passionate about and dedicated so much of their time to.",
+"image":"https://images.pexels.com/photos/7317916/pexels-photo-7317916.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+"latitude": 43.7647921496599,
+"longitude": -79.4417151693185,
+"address":"4605 Bathurst St, North York, ON M2R 3V3"
+}
+]
